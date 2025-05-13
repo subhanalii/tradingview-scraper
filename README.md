@@ -16,11 +16,14 @@ All extracted data (including name, price, 24h change, market cap, and volume) i
 
 ## 📽️ Demo
 
-[![Watch the demo](https://img.youtube.com/vi/wLmeTd680g0/0.jpg)](https://youtu.be/wLmeTd680g0?si=JWXd_366EV_5JZ--)
+[![Watch the demo](https://img.youtube.com/vi/MKZG7XTtqrU/0.jpg)](https://youtu.be/MKZG7XTtqrU)
 
 > 💬 Want the full working code or a custom scraper?  
 > 📧 Email me at [isubhanali3@gmail.com](mailto:isubhanali3@gmail.com)  
 > 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~01b6c1b6819be875f2)
+> 💬 Discord: `s.a3`
+💬 Discord: [`s.a3`](https://discord.com/users/s.a3)
+
 
 ---
 
