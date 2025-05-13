@@ -53,3 +53,25 @@ Install with:
 
 ```bash
 pip install requests
+## 🧪 Code Preview
+
+
+```python
+screeners = {
+    "crypto": {
+        "url": "https://scanner.tradingview.com/coin/scan",
+        "columns": ["base_currency", "close", "24h_close_change|5", "market_cap_calc"]
+    }
+}
+
+def fetch_screener_to_csv(name, config):
+    payload = {
+        "columns": config["columns"],
+        "range": [0, 100],
+        "sort": {"sortBy": config["columns"][0], "sortOrder": "asc"}
+    }
+    response = requests.post(config["url"], headers=headers, data=json.dumps(payload))
+    # process and save CSV...
+
+ This is just a preview.
+💼 Contact me to access the full working source code or request a custom version:
